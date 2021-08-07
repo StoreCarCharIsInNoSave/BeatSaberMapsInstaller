@@ -1,0 +1,10 @@
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\bin\Debug\BeatSaberMapsInstaller.exe.config
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\bin\Debug\BeatSaberMapsInstaller.exe
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\bin\Debug\BeatSaberMapsInstaller.pdb
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\obj\Debug\BeatSaberMapsInstaller.csproj.AssemblyReference.cache
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\obj\Debug\BeatSaberMapsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\obj\Debug\BeatSaberMapsInstaller.exe
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\obj\Debug\BeatSaberMapsInstaller.pdb
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OXPAHA_CEPBEPA\Desktop\BeatSaberMapsInstaller\BeatSaberMapsInstaller\obj\Debug\BeatSaberMapsInstaller.csproj.CopyComplete
