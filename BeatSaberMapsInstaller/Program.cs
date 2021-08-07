@@ -53,8 +53,8 @@ namespace BeatSaberMapsInstaller
                 File.Delete(archivePath);
                 
             }
-          
 
+            Console.ReadKey();
         }
     }
 }
