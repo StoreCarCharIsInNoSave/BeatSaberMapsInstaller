@@ -24,7 +24,7 @@ namespace BeatSaberMapsInstaller
                 {
                     foreach (ZipArchiveEntry entry in zip.Entries)
                     {
-                        if (entry.FullName == "info.dat")
+                        if (entry.FullName.ToLower() == "info.dat")
                         {
 
                             entry.ExtractToFile(Path.Combine(Environment.CurrentDirectory, entry.FullName));
